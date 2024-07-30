@@ -1,6 +1,6 @@
 <?php
 class Messages {
-    private static $apiUrl = 'https://tempsmsonline.com/api/messages.php?no=';
+    private static $apiUrl = 'https://tempsmsonline.com/api/messages/';
 
     public static function getMessages($number) {
         $url = self::$apiUrl . urlencode($number);
