@@ -1,6 +1,6 @@
 <?php
 class Numbers {
-    private static $apiUrl = 'https://tempsmsonline.com/api/numbers.php';
+    private static $apiUrl = 'https://tempsmsonline.com/api/numbers/';
 
     public static function getNumbers() {
         $response = file_get_contents(self::$apiUrl);
