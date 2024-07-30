@@ -21,7 +21,7 @@
 <ol>
   <li>
     <strong>Clone the repository:</strong>
-    <pre><code>git clone https://github.com/yourusername/temp-sms-online.git
+    <pre><code>git clone https://github.com/architecttr/temp-sms-online.git
 cd temp-sms-online
 </code></pre>
   </li>
@@ -68,9 +68,9 @@ cd temp-sms-online
 </ul>
 
 <h2>👤 Author</h2>
-<p><strong>Your Name</strong></p>
+<p><strong>Architect</strong></p>
 <ul>
-  <li><a href="https://github.com/yourusername">GitHub</a></li>
+  <li><a href="https://github.com/architecttr">GitHub</a></li>
 </ul>
 
 <h2>📜 License</h2>
