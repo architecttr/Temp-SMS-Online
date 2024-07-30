@@ -1,0 +1,27 @@
+{
+    "name": "architecttr/temp-sms-online",
+    "description": "A PHP-based API for receiving SMS messages using temporary phone numbers.",
+    "type": "project",
+    "require": {
+        "php": "^7.4 || ^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Api\\": "api/"
+        }
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "php -r 'file_exists(\".env\") || copy(\".env.example\", \".env\");'"
+        ],
+        "post-update-cmd": [
+            "php -r 'file_exists(\".env\") || copy(\".env.example\", \".env\");'"
+        ]
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Architect"
+        }
+    ]
+}
