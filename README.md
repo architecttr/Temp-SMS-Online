@@ -62,7 +62,7 @@ cd temp-sms-online
 </ul>
 
 <h2>🔗 API Source</h2>
-<p>The API provides a simple interface for accessing temporary SMS messages. It pulls data from <a href="https://tempsmsonline.com/api/numbers.php">https://tempsmsonline.com/api/numbers/</a> and <a href="https://tempsmsonline.com/api/message/12345678">https://tempsmsonline.com/api/messages/12345678</a>.</p>
+<p>The API provides a simple interface for accessing temporary SMS messages. It pulls data from <a href="https://tempsmsonline.com/api/numbers/">https://tempsmsonline.com/api/numbers/</a> and <a href="https://tempsmsonline.com/api/message/12345678">https://tempsmsonline.com/api/messages/12345678</a>.</p>
 
 <h2>🛠️ Tools Used</h2>
 <ul>
